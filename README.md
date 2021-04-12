@@ -1,2 +1,3 @@
 # auladml
-Scripts de carga usados na disciplina de projeto de banco de dados
+Scripts de cargas usado na disciplina de projeto de banco de dados.
+Banco de dados auladml.
